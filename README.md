@@ -11,7 +11,7 @@ git clone https://github.com/Kamlesh364/Modified-RootNav2.0/
 ```
 Next, install the required dependencies. If you're using pip, then the following will work in Linux:
 ```
-cd RootNav-2.0
+cd Modified-RootNav2.0
 pip install -r requirements.txt
 ```
 
