@@ -21,7 +21,7 @@ This will download and set up all the required libraries, providing you with a P
 This repository can only be used `training` and will be availble for `inference` shortly.
 
 ### Training new models
-Training code may be found in the `training` folder. Instructions on training models are given in the [training README](https://github.com/Kamlesh364/Modified-RootNav2.0/blob/master/training/README.md).
+Training code may be found in the `training` folder. Instructions on training models are given in the [training README](https://github.com/Kamlesh364/Modified-RootNav2.0/tree/main/training).
 
 ## References
 <a id="1">[1]</a> 
