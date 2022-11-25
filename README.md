@@ -18,10 +18,7 @@ pip install -r requirements.txt
 This will download and set up all the required libraries, providing you with a Python(>=3.6) installation.
 
 ## Using the tool
-This repository can be used for both `inference` as well as `training`.
-
-### Inference modew
-Training code may be found in the `inference` folder. Instructions on inference mode are given in the [inference README](https://github.com/Kamlesh364/Modified-RootNav2.0/blob/master/inference/README.md).
+This repository is currently available for `training` purpose only, and will be available for `inference` as well, shortly.
 
 ### Training new models
 Training code may be found in the `training` folder. Instructions on training models are given in the [training README](https://github.com/Kamlesh364/Modified-RootNav2.0/blob/master/training/README.md).
